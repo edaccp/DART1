@@ -59,25 +59,13 @@ eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1/DART1 (main)
 $ git clone https://github.com/cubos-academy/flutter-m01-lista01.git^C
 
 eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1/DART1 (main)
-$ cd..
-bash: cd..: command not found
-
-eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1/DART1 (main)
 $ cd ..
-
-eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1
-$ md lista01
-bash: md: command not found
 
 eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1
 $ mkdir lista01
 
 eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1
 $ cd lista01
-
-eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1/lista01
-$ rm -r lista01
-rm: cannot remove 'lista01': No such file or directory
 
 eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1/lista01
 $ cd ..
