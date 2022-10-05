@@ -19,13 +19,12 @@
 // ### [Vídeo explicativo](https://drive.google.com/file/d/1s2ieSsmYubV5gsdkvM8L_WkdwjOs6gNB/view?usp=sharing) -->
 
 int rec(int i) {
-  if (i <= 1) {
-    return 1;
+  if (i >= 1) {
+    return i + rec(i - 1);
   }
-  //print(i);
-  return rec(i) + rec(i - 1);
+  return 0;
 }
 
 void main() {
-  print(rec(5));
+  print(rec(23));
 }
