@@ -108,4 +108,4 @@ eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1/dart1 (main)
 $ cd lista01
 
 eduar@NightNote18 MINGW64 /d/eduar/Projetos/dart1/dart1/lista01 (main)
-$ rm -rf .git
+$
